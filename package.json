@@ -1,0 +1,23 @@
+{
+  "name": "bull-multiple-processes-named-jobs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikMartensson/bull-multiple-processes-named-jobs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErikMartensson/bull-multiple-processes-named-jobs/issues"
+  },
+  "homepage": "https://github.com/ErikMartensson/bull-multiple-processes-named-jobs#readme",
+  "dependencies": {
+    "bull": "^3.12.1"
+  }
+}
